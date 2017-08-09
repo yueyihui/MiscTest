@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Misc-Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="ether">Ethernet test</string>
+    <string name="wifi">wifi test</string>
+</resources>
