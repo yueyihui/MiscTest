@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_a3438ebe305eec781126caf92950c70c6917a242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/libs/iotsdk-0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9996b976316d28a2aa94e1f7cd5a442824de44f3">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/iotsdk-0.1_020e3b946352b0698204668488c9a3939ad41ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_13af87dde1fdc8ab11b16a1631a7d08278cb2975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/libs/ethernet.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6006af1676dcfb95390bb0eb0353b1dd269e08a0">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/ethernet_edbecf3edbb01ce2511ae687da1a23d02d6ccb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/libs/display.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4d38a439c08ab1424c3e19cbfb2fabf97bbf2751">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/display_4bc612ee04ec17f94723290031b2c54dca3a4515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/libs/mywifi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a6f6af6932590a8f6832a81fdeda51f860b4474">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/mywifi_23c6a740245978620435cecab6d8b470207ba957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_38bca9f0c1e0633915c44d5dc31cb57217637966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_438a3a55b22602feed445ad5636540de79ff3da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_40075967eb6d76b689dfa1d444be11b294c7cb31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Misc-Test/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_d784c3770e9348dae520e4254b0e444384e46142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lyue/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/lyue/Misc-Test/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_aa07804c6f750b865e0a6325436ec1184f29badf.jar" />
+    </item>
+
+</items>
